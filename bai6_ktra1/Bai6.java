@@ -1,6 +1,6 @@
 // code:
 // name:
-package ktra1;
+package bai6_ktra1;
 
 import java.util.Scanner;
 
