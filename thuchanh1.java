@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//bai 1 2 3 4
 class bai1 {
     private int n;
     private int digit = 1;
